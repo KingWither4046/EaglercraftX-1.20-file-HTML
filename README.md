@@ -9,3 +9,4 @@ WOW!!!!
 
 If u dont trust it and think its a radman troll, CHECK THE CODE (Click "Veiw Raw")
 
+Get resource packs at https://github.com/KingWither4046/eagler-resource-packs/tree/main
